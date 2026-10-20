@@ -8,7 +8,7 @@ This repository contains a backtester for IMC Prosperity 4 algorithms. The outpu
 
 Tip: Want to visualize your backtest results? See the Visualizer section below!
 
-Usage
+Usage is updated as of 20 oct 2026
 
 Basic usage:
 
